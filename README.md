@@ -8,7 +8,8 @@ Azure Services Used:
 
 --Azure Cognitive Services(Language Studio) : I used this service to create Custom Question Answering System through Language Studio.Later I created a Web App Bot and embedded it in my website in the FAQ Section
 
-#Output
+Output
+--
 ![Screenshot (371)](https://user-images.githubusercontent.com/92994005/197768525-522a9404-85fa-4e83-b270-7c40bcbb19d1.png)
 --
 
