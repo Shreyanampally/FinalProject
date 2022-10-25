@@ -5,7 +5,7 @@ I have built this website using HTML,CSS,BootStrap and JavaScript.
 Azure Services Used:
 I have used 2 Azure services:
 --Static Web Apps: I hosted my website using Static Web app Service.
-
+--
 --Azure Cognitive Services(Language Studio) : I used this service to create Custom Question Answering System through Language Studio.Later I created a Web App Bot and embedded it in my website in the FAQ Section
 --
 #Output
