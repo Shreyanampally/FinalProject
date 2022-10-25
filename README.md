@@ -13,6 +13,15 @@ Output
 ![Screenshot (371)](https://user-images.githubusercontent.com/92994005/197768525-522a9404-85fa-4e83-b270-7c40bcbb19d1.png)
 --
 
+![Screenshot (372)](https://user-images.githubusercontent.com/92994005/197828788-05b5977a-0462-42a2-b6cf-a9559b7afe94.png)
+--
+
+![Screenshot (373)](https://user-images.githubusercontent.com/92994005/197828832-1d43e6f6-6702-4f73-9512-2e09fc133b03.png)
+--
+
+![Screenshot (374)](https://user-images.githubusercontent.com/92994005/197828867-56fbce84-385b-4120-888f-171bf06971ce.png)
+--
+
 ![Screenshot (375)](https://user-images.githubusercontent.com/92994005/197770659-2ef77979-f720-41e1-974b-c5ac5ed7574d.png)
 --
 
